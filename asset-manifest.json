@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/git-react/static/css/main.073c9b0a.css",
-    "main.js": "/git-react/static/js/main.975b655f.js",
+    "main.css": "/git-react/static/css/main.253231dd.css",
+    "main.js": "/git-react/static/js/main.1f1321fd.js",
     "static/js/787.27fa9907.chunk.js": "/git-react/static/js/787.27fa9907.chunk.js",
-    "static/media/logo.svg": "/git-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image-equilibrium.jpg": "/git-react/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
     "index.html": "/git-react/index.html",
-    "main.073c9b0a.css.map": "/git-react/static/css/main.073c9b0a.css.map",
-    "main.975b655f.js.map": "/git-react/static/js/main.975b655f.js.map",
+    "static/media/icon-view.svg": "/git-react/static/media/icon-view.fedac5512cc6657af397a76d5e03ea37.svg",
+    "static/media/icon-clock.svg": "/git-react/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/git-react/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.253231dd.css.map": "/git-react/static/css/main.253231dd.css.map",
+    "main.1f1321fd.js.map": "/git-react/static/js/main.1f1321fd.js.map",
     "787.27fa9907.chunk.js.map": "/git-react/static/js/787.27fa9907.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.975b655f.js"
+    "static/css/main.253231dd.css",
+    "static/js/main.1f1321fd.js"
   ]
 }
